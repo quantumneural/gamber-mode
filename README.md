@@ -1,2 +1,2 @@
-# gamber.mode
-GAMBBBBBERRRRR MOODDDEE!!!!!!!! is an addicting gambling game where u gamble. if you win, you gamble more. the ultimate gambling game for gambling. go ahead and gamble now!!!!!!!!!.
+# GAMBER MODE!
+GAMBER MODE is an addicting raffle ticket simulation available in the palm of your hands!
