@@ -26,8 +26,6 @@ Gamber Mode is a terminal-based Python game where the player guesses numbers to 
   
 Gamber Mode = (Successes / (Successes + Fails)) * 100
 
-yaml
-Copy code
 - The game ends automatically if coins = 0.
 
 ---
